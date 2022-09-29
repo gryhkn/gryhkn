@@ -15,11 +15,6 @@ I have been coding for 5 years and I am currently a Full Stack Developer with ex
 
 I am on a journey to make Web3 Development accessible to everyone and I would love to share that journey with you 💛
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gryhkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gryhkn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gryhkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gryhkn" height="30" width="40" /></a>
-</p>
 
 ### About Me:
 
