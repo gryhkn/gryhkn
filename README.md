@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm  <a href="https://github.com/gryhkn/">Giray!</a> </h1>
-### Great! You have arrived here &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gryhkn.gryhkn&style=flat-square&color=ffeb00)
 <h4 align="center">A passionate web3 developer.</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gryhkn)
