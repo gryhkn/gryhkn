@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Giray!](https://github.com/gryhkn/)</h1>
+<h1 align="center">Hi 👋, I'm  <a href="https://github.com/gryhkn/">Giray!</a> </h1>
+<h3 align="center">A passionate web3 developer.</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gryhkn)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fuckingchain)
@@ -11,8 +12,6 @@ I'm a Software Developer 💻 at Ayvos AI Solutions and also a Content Creator �
 I am self-taught 🚀 and I love talking & writing about Web3 Development , & Software Development in general.
 
 I have been coding for 5 years and I am currently a Full Stack Developer with experience Vue,React,JS and AI algorithms.
-
-I 💛 building real-time applications but I mostly work on and experiment with APIs of all sort.
 
 I am on a journey to make Web3 Development accessible to everyone and I would love to share that journey with you 💛
 
@@ -27,7 +26,7 @@ I am on a journey to make Web3 Development accessible to everyone and I would lo
 - 🛠 &nbsp; I’m currently working at AYVOS AI Solutions
 - 🚀 &nbsp; I’m currently writing content for my Twitter audience
 - ✍️ &nbsp; I am a creating Web3 project using [Alchemy](https://alchemy.com) and Creating Technical content at [Hashnode](https://web3.hashnode.com) 
-- 📫 &nbsp; How to reach me on Twitter [@heyOnuoha](https://twitter.com/gryhkn)
+- 📫 &nbsp; How to reach me on Twitter [@gryhkn](https://twitter.com/gryhkn)
 - 💼 &nbsp; Find my resume on [LinkedIn](https://www.linkedin.com/in/gryhkn)
 
 
