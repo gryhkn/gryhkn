@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  <a href="https://github.com/gryhkn/">Giray!</a> </h1>
-<h3 align="center">A passionate web3 developer.</h3>
+<h4 align="center">A passionate web3 developer.</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gryhkn)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fuckingchain)
@@ -9,9 +9,9 @@
 ### Great! You have arrived here &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gryhkn.gryhkn&style=flat-square&color=ffeb00)
 
 I'm a Software Developer 💻 at Ayvos AI Solutions and also a Content Creator ✍️ <br />
-I am self-taught 🚀 and I love talking & writing about Web3 Development , & Software Development in general.
+I am self-taught 🚀 and I love talking & writing about Web3 Development, & Software Development in general.
 
-I have been coding for 5 years and I am currently a Full Stack Developer with experience Vue,React,JS and AI algorithms.
+I have been coding for 5 years and I am currently a Full Stack Developer and Blockchain Researcher with experience Vue, React, JS, Solidity, EVM and AI algorithms.
 
 I am on a journey to make Web3 Development accessible to everyone and I would love to share that journey with you 💛
 
@@ -21,7 +21,7 @@ I am on a journey to make Web3 Development accessible to everyone and I would lo
 - 🛠 &nbsp; I’m currently working at AYVOS AI Solutions
 - 🚀 &nbsp; I’m currently writing content for my Twitter audience
 - ✍️ &nbsp; I am a creating Web3 project using [Alchemy](https://alchemy.com) and Creating Technical content at [Hashnode](https://web3.hashnode.com) 
-- 📫 &nbsp; How to reach me on Twitter [@gryhkn](https://twitter.com/gryhkn)
+- 📫 &nbsp; How to reach me on Twitter [@fuckingchain](https://twitter.com/fuckingchain)
 - 💼 &nbsp; Find my resume on [LinkedIn](https://www.linkedin.com/in/gryhkn)
 
 
