@@ -8,20 +8,21 @@
 
 ### Great! You have arrived here &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gryhkn.gryhkn&style=flat-square&color=ffeb00)
 
-I'm a Software Developer 💻 at Ayvos AI Solutions and also a Content Creator ✍️ <br />
-I am self-taught 🚀 and I love talking & writing about Web3 Development, & Software Development in general.
+I'm an enthusiastic Software Developer 💻 at NFTinit and a passionate Content Creator ✍️. As a self-taught professional, I have a keen interest in discussing and writing about AI Development.
 
-I have been coding for 5 years and I am currently a Full Stack Developer and Blockchain Researcher with experience Vue, React, JS, Solidity, EVM and AI algorithms.
+With 5 years of coding experience under my belt, I'm currently working as a Software Developer and Machine Learning Researcher. 
 
-I am on a journey to make Web3 Development accessible to everyone and I would love to share that journey with you 💛
+I am constantly exploring the latest advancements in AI and deep learning to stay at the forefront of this rapidly evolving field. My experience extends to working with various machine learning techniques. I enjoy collaborating with interdisciplinary teams to develop innovative solutions and drive meaningful impact in the industry. As a researcher, I'm dedicated to sharing my knowledge and empowering others to harness the power of AI to create a better future.
+
+My mission is to make AI development accessible to everyone, and I'm excited to share this journey with you 💛. Let's learn and grow together in the ever-evolving world of technology!
+
 
 
 ### About Me:
 
-- 🛠 &nbsp; I’m currently working at AYVOS AI Solutions
+- 🛠 &nbsp; I’m currently working at NFTinit
 - 🚀 &nbsp; I’m currently writing content for my Twitter audience
-- ✍️ &nbsp; I am a creating Web3 project using [Alchemy](https://alchemy.com) and Creating Technical content at [Hashnode](https://web3.hashnode.com) 
-- 📫 &nbsp; How to reach me on Twitter [@fuckingchain](https://twitter.com/fuckingchain)
+- 📫 &nbsp; How to reach me on Twitter [@gryhkn](https://twitter.com/gryhkn)
 - 💼 &nbsp; Find my resume on [LinkedIn](https://www.linkedin.com/in/gryhkn)
 
 
