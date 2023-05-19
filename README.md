@@ -20,7 +20,6 @@ My mission is to make AI development accessible to everyone, and I'm excited to 
 
 ### About Me:
 
-- 🛠 &nbsp; I’m currently working at NFTinit
 - 🚀 &nbsp; I’m currently writing content for my Twitter audience
 - 📫 &nbsp; How to reach me on Twitter [@gryhkn](https://twitter.com/gryhkn)
 - 💼 &nbsp; Find my resume on [LinkedIn](https://www.linkedin.com/in/gryhkn)
