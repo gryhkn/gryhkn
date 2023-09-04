@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  <a href="https://github.com/gryhkn/">Giray!</a> </h1>
-<h4 align="center">A passionate Software developer.</h4>
+<h4 align="center">Software Engineer</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gryhkn/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/gryhkn)
