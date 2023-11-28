@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  <a href="https://github.com/gryhkn/">Giray!</a> </h1>
-<h4 align="center">Software Engineer</h4>
+<h4 align="center">Data/ML</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gryhkn/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/gryhkn)
@@ -8,14 +8,13 @@
 
 ### Great! You have arrived here &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gryhkn.gryhkn&style=flat-square&color=ffeb00)
 
-I'm an enthusiastic Software Developer 💻 at NFTinit and a passionate Content Creator ✍️. As a self-taught professional, I have a keen interest in discussing and writing about AI Development.
+I am a Data Scientist and Machine Learning Engineer with a strong foundation in Python programming, accumulated over five years. My primary focus is on data science and machine learning, where I apply my skills to a range of challenging problems. I'm also a passionate Content Creator ✍️
 
-With 5 years of coding experience under my belt, I'm currently working as a Software Developer and Machine Learning Researcher. 
+In addition to my core areas, I have a growing interest in generative AI. This has led me to work on various projects involving large language models (LLMs), voice cloning, and image generation. My proficiency with tools like LangChain plays a significant role in my work, especially in the realm of natural language processing (NLP).
 
-I am constantly exploring the latest advancements in AI and deep learning to stay at the forefront of this rapidly evolving field. My experience extends to working with various machine learning techniques. I enjoy collaborating with interdisciplinary teams to develop innovative solutions and drive meaningful impact in the industry. As a researcher, I'm dedicated to sharing my knowledge and empowering others to harness the power of AI to create a better future.
+My experience in AI extends to teaching as well, where I share insights on LLMs, NLP, and LangChain. I strive to bridge the gap between theoretical knowledge and practical application in these fields.
 
 My mission is to make AI development accessible to everyone, and I'm excited to share this journey with you 💛. Let's learn and grow together in the ever-evolving world of technology!
-
 
 
 ### About Me:
