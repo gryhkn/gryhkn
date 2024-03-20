@@ -8,7 +8,7 @@
 
 ### Great! You have arrived here &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gryhkn.gryhkn&style=flat-square&color=ffeb00)
 
-I am a Machine Learning (Generative AI) Engineer with a strong foundation in Python programming, accumulated over five years. My primary focus is on NLP, LLM, and RAG, where I apply my skills to a range of challenging problems. I'm also a passionate Content Creator ✍️
+I am a Machine Learning (Generative AI) Engineer. My primary focus is on NLP, LLM, and RAG, where I apply my skills to a range of challenging problems. I'm also a passionate Content Creator ✍️
 
 My mission is to make AI development accessible to everyone, and I'm excited to share this journey with you 💛. Let's learn and grow together in the ever-evolving world of technology!
 
