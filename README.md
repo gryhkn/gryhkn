@@ -8,11 +8,7 @@
 
 ### Great! You have arrived here &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gryhkn.gryhkn&style=flat-square&color=ffeb00)
 
-I am a Data Scientist and Machine Learning Engineer with a strong foundation in Python programming, accumulated over five years. My primary focus is on data science and machine learning, where I apply my skills to a range of challenging problems. I'm also a passionate Content Creator ✍️
-
-In addition to my core areas, I have a growing interest in generative AI. This has led me to work on various projects involving large language models (LLMs), voice cloning, and image generation. My proficiency with tools like LangChain plays a significant role in my work, especially in the realm of natural language processing (NLP).
-
-My experience in AI extends to teaching as well, where I share insights on LLMs, NLP, and LangChain. I strive to bridge the gap between theoretical knowledge and practical application in these fields.
+I am a Machine Learning (Generative AI) Engineer with a strong foundation in Python programming, accumulated over five years. My primary focus is on NLP, LLM, and RAG, where I apply my skills to a range of challenging problems. I'm also a passionate Content Creator ✍️
 
 My mission is to make AI development accessible to everyone, and I'm excited to share this journey with you 💛. Let's learn and grow together in the ever-evolving world of technology!
 
